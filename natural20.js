@@ -10,6 +10,6 @@ if(num1 == 15){
     console.log("Adding another 5")
     num1 = num1 + 5;
 } 
-else if(num1 == 20) {
+if(num1 == 20) {
     console.log("Now it is 20");
 }
